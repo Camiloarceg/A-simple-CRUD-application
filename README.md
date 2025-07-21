@@ -81,15 +81,6 @@ Visit: [http://localhost:8080/h2-console](http://localhost:8080/h2-console)
 
 ---
 
-## 🙋‍♂️ Author
-
-**Juan Camilo Arce**  
-[LinkedIn](https://www.linkedin.com/in/your-profile)  
-[GitHub](https://github.com/your-username)  
-[Portfolio](https://your-portfolio.com)
-
----
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
