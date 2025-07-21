@@ -55,11 +55,11 @@ You can test the API using Postman or any REST client:
 
 | Method | Endpoint           | Description          |
 |--------|--------------------|----------------------|
-| GET    | `/api/items`       | List all items       |
-| POST   | `/api/items`       | Create a new item    |
-| GET    | `/api/items/{id}`  | Get item by ID       |
-| PUT    | `/api/items/{id}`  | Update item by ID    |
-| DELETE | `/api/items/{id}`  | Delete item by ID    |
+| GET    | `/getAllBooks`       | List all items       |
+| POST   | `/addBook`       | Create a new item    |
+| GET    | `/getBookById/{id}`  | Get item by ID       |
+| PUT    | `/updateBookById/{id}`  | Update item by ID    |
+| DELETE | `/deleteBookById/{id}`  | Delete item by ID    |
 
 4. **H2 Database Console:**
 
